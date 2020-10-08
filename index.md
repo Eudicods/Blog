@@ -13,3 +13,5 @@ twitter-timeline:
   inject_js: true
 ---
 
+See the Theaceae campaign setting [here](https://eudicods.github.io/Theaceae/). 
+
