@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----
 
----
 twitter-timeline:
   name: dndpromptsdaily
   width: 300
@@ -14,3 +12,4 @@ twitter-timeline:
   tweet_limit: 3
   inject_js: true
 ---
+
