@@ -15,3 +15,5 @@ twitter-timeline:
 
 See the Theaceae campaign setting [here](https://eudicods.github.io/Theaceae/). 
 
+See the Astral Sea campaign setting [here](https://eudicods.github.io/AstralSea/). 
+
